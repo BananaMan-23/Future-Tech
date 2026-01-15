@@ -1,0 +1,24 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/BananaMan-23/Future-Tech#readme",
+  "bugs": {
+    "url": "https://github.com/BananaMan-23/Future-Tech/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BananaMan-23/Future-Tech.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ."
+  },
+  "devDependencies": {
+    "sass": "^1.97.1"
+  }
+}
